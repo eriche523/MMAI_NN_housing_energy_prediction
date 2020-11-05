@@ -1,5 +1,5 @@
 # MMAI_NN_housing_energy_prediction
-The objective is to use the features in 2009 RECS Survey Data to predict the KWH (Kilowatts per hour) in a residential place. I attempt to comparing regression models complexity vs accuracy
+The objective is to use the features in 2009 RECS Survey Data to predict the KWH (Kilowatts per hour) in a residential place. I attempt to compare regression models complexity vs accuracy
 There was 12,083 number of responses collected in the survey using a sophisticated multistage, weight probability sampling design.
 
 files:
